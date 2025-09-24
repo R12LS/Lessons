@@ -1,6 +1,6 @@
 # Сказ о том, как я ООП изучал
 
-<img src="https://cs4.pikabu.ru/post_img/2015/04/06/7/1428317216_2115088709.jpg " width=700>
+<img src="https://cdn.javarush.com/images/article/5f6c7019-9c2d-4587-b627-4fb602e65c68/512.jpeg" width=700>
 
 ## Содержание
 
